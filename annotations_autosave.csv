@@ -1,0 +1,6 @@
+text,sentiment,sarcasm,comment,time_taken_secs
+This product is amazing and exceeded my expectations!,Positive,No,Cool,196.02
+"I hated the experience, never buying again.",Negative,No,,9.48
+"It's okay, not too bad but nothing great.",Neutral,No,,24.68
+Fast delivery and good quality.,Positive,No,Good,8.87
+Worst customer support I’ve ever dealt with.,Negative,Yes,Good,6.07
