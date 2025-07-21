@@ -1,0 +1,17 @@
+streamlit==1.35.0
+pandas==2.2.2
+matplotlib==3.9.0
+
+✅ Instructions:
+
+    Open Notepad or VS Code
+
+    Paste the above content
+
+    Save the file as:
+
+TextLabelingTool/requirements.txt
+
+    This ensures that anyone running your project (including yourself) can install all necessary packages using:
+
+pip install -r requirements.txt
